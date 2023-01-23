@@ -1,0 +1,15 @@
+/Users/admin/Seminar2_HW/HW_Tasl2/bin/Debug/net6.0/HW_Tasl2
+/Users/admin/Seminar2_HW/HW_Tasl2/bin/Debug/net6.0/HW_Tasl2.deps.json
+/Users/admin/Seminar2_HW/HW_Tasl2/bin/Debug/net6.0/HW_Tasl2.runtimeconfig.json
+/Users/admin/Seminar2_HW/HW_Tasl2/bin/Debug/net6.0/HW_Tasl2.dll
+/Users/admin/Seminar2_HW/HW_Tasl2/bin/Debug/net6.0/HW_Tasl2.pdb
+/Users/admin/Seminar2_HW/HW_Tasl2/obj/Debug/net6.0/HW_Tasl2.csproj.AssemblyReference.cache
+/Users/admin/Seminar2_HW/HW_Tasl2/obj/Debug/net6.0/HW_Tasl2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Seminar2_HW/HW_Tasl2/obj/Debug/net6.0/HW_Tasl2.AssemblyInfoInputs.cache
+/Users/admin/Seminar2_HW/HW_Tasl2/obj/Debug/net6.0/HW_Tasl2.AssemblyInfo.cs
+/Users/admin/Seminar2_HW/HW_Tasl2/obj/Debug/net6.0/HW_Tasl2.csproj.CoreCompileInputs.cache
+/Users/admin/Seminar2_HW/HW_Tasl2/obj/Debug/net6.0/HW_Tasl2.dll
+/Users/admin/Seminar2_HW/HW_Tasl2/obj/Debug/net6.0/refint/HW_Tasl2.dll
+/Users/admin/Seminar2_HW/HW_Tasl2/obj/Debug/net6.0/HW_Tasl2.pdb
+/Users/admin/Seminar2_HW/HW_Tasl2/obj/Debug/net6.0/HW_Tasl2.genruntimeconfig.cache
+/Users/admin/Seminar2_HW/HW_Tasl2/obj/Debug/net6.0/ref/HW_Tasl2.dll

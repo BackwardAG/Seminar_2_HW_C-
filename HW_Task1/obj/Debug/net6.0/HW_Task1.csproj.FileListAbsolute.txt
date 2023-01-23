@@ -1,0 +1,15 @@
+/Users/admin/Seminar2_HW/HW_Task1/bin/Debug/net6.0/HW_Task1
+/Users/admin/Seminar2_HW/HW_Task1/bin/Debug/net6.0/HW_Task1.deps.json
+/Users/admin/Seminar2_HW/HW_Task1/bin/Debug/net6.0/HW_Task1.runtimeconfig.json
+/Users/admin/Seminar2_HW/HW_Task1/bin/Debug/net6.0/HW_Task1.dll
+/Users/admin/Seminar2_HW/HW_Task1/bin/Debug/net6.0/HW_Task1.pdb
+/Users/admin/Seminar2_HW/HW_Task1/obj/Debug/net6.0/HW_Task1.csproj.AssemblyReference.cache
+/Users/admin/Seminar2_HW/HW_Task1/obj/Debug/net6.0/HW_Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Seminar2_HW/HW_Task1/obj/Debug/net6.0/HW_Task1.AssemblyInfoInputs.cache
+/Users/admin/Seminar2_HW/HW_Task1/obj/Debug/net6.0/HW_Task1.AssemblyInfo.cs
+/Users/admin/Seminar2_HW/HW_Task1/obj/Debug/net6.0/HW_Task1.csproj.CoreCompileInputs.cache
+/Users/admin/Seminar2_HW/HW_Task1/obj/Debug/net6.0/HW_Task1.dll
+/Users/admin/Seminar2_HW/HW_Task1/obj/Debug/net6.0/refint/HW_Task1.dll
+/Users/admin/Seminar2_HW/HW_Task1/obj/Debug/net6.0/HW_Task1.pdb
+/Users/admin/Seminar2_HW/HW_Task1/obj/Debug/net6.0/HW_Task1.genruntimeconfig.cache
+/Users/admin/Seminar2_HW/HW_Task1/obj/Debug/net6.0/ref/HW_Task1.dll
